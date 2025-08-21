@@ -1,4 +1,4 @@
-# Esse repositório descreve 3 ténicas dentro de POO
+# Esse repositório descreve 3 técnicas dentro de POO
 <style>h3{color: blue;}</style>
 
 ## Herança
